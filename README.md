@@ -35,6 +35,8 @@ The collection includes:
 **(!!)** This patch was tested in a single-player mode only.
 
 **Nice things that you need to start:**
+![Preview](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/Preview.png?raw=true)
+
 - RPCS3 Emulator ([Download](https://rpcs3.net/download) or [the build which I used for testing](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-8fd2ae954d80d867fd2d58795848c77d1954574b/rpcs3-v0.0.42-19815-8fd2ae95_win64_msvc.7z))
 
 - Mercenaries 2: World In Flames dump
@@ -51,8 +53,6 @@ The collection includes:
 - `(optionally)` ReShade for better graphics  ([download](https://reshade.me/))
 - `(optionally)` Lossless Scaling for frame generation and scaling  ([download](https://store.steampowered.com/app/993090/Lossless_Scaling/))
 - `(optionally)` Gamepad for better experience 
-
-![Preview](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/Preview.png?raw=true)
 
 
 ## Installation
