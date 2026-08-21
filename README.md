@@ -12,14 +12,14 @@
  - What you can find in this patch
  - [Prerequisites](#prerequisites)
  - [Installation](#installation)
- - Pro Tips for best quality
+ - Pro Tips for Best Quality
 
 ## Prerequisites
 **(!)** It's extremely important to check your serial numbers on an every step, because this patch expects only certain ones. Otherwise, there is a big chance that you will experience bugs/crashes and other bad stuff.
 
 **(!!)** This patch was tested in a single-player mode only.
 
-Nice things that you need to start:
+**Nice things that you need to start:**
 - RPCS3 Emulator ([Download](https://rpcs3.net/download) or [the build which I used for testing](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-8fd2ae954d80d867fd2d58795848c77d1954574b/rpcs3-v0.0.42-19815-8fd2ae95_win64_msvc.7z))
 
 - Mercenaries 2: World In Flames dump
@@ -58,3 +58,15 @@ Nice things that you need to start:
  ![Preview](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/Patches.png?raw=true)
 
 You are ready to blow someting up!
+
+## Pro Tips for Best Quality
+### Use excessive upscaling in RPCS3
+Let's assume the following:
+- You set the game upscaling resolution to 300% (for high-end hardware) which is quivalent to 
+- You launched the game in the window mode with resolution 1280x720
+
+Then your game will be automatically downsampled by your system and this will improve anti-aliasing in the game
+
+
+### Use ReShade to improve graphics
+### Use Lossless Scaling to scale the window and generate 60 fps
