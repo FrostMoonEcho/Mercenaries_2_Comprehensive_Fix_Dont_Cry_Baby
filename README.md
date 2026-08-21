@@ -67,6 +67,7 @@ The collection includes:
 	 - You created Custom configuration for gamepad
 	 
  - Install the update v1.03 and DLC. Make sure that:
+ 
  ![Preview](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/Packages.png?raw=true)
 
  - Download [BLES00323_patch.yml](/BLES00323_patch.yml) from this repository and put it in the folder `<RPCS3_folder>/patches`. So your structure should look like: 
@@ -77,6 +78,7 @@ The collection includes:
 ```
 
 - **Right-click on the game** -> **Manage game patches** -> **Enable the following game patches**:
+ 
  ![Preview](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/Patches.png?raw=true)
 
 - Set **your RPCS3 upscaling value** in `Self-Shadowing Fix`
@@ -113,7 +115,7 @@ Then restart RPCS3.
 
 ### Use Lossless Scaling to scale the window and generate 60 fps
 The next questions are how to play in a full-screen mode preserving the quality and how to have more than 30fps?
-You have to use ([Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/)) to get to this point. Here are the settings that I use:
+You have to use [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/) to get to this point. Here are the settings that I use:
 
 ![Lossless Scaling Settings](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/LS.png?raw=true)
 
@@ -129,41 +131,23 @@ But be careful, because the settings that will work best on your hardware will b
 
 ### Cheats
 
-> **Note:** Cheats are only available after the v1.03 update is applied to
-> your game.
->  
-> While playing the game, activate the PDA, and press L2,
-> R2(2), L2, R2, L2(2), R2(3), L2 to enable cheat mode. 
-> Then, close the PDA. 
-> 
-> If you entered the code correctly, a message will appear.
-> Activate the PDA again, and enter one of the following codes at the
-> PDA screen to activate the corresponding cheat function:
+> **Note:** Cheats are only available after the v1.03 update is applied to your game.
+  
+While playing the game, activate the PDA, and press `L2, R2(2), L2, R2, L2(2), R2(3), L2` to enable cheat mode. Then, close the PDA. If you entered the code correctly, a message will appear.
 
-**Invincibility**
-At the PDA screen, press Up, Down, Left, Down, Right(2). This code will affect both players if enabled in Co-op mode.
+Activate the PDA again, and enter one of the following codes at the PDA screen to activate the corresponding cheat function:
 
-**Infinite ammunition**
-At the PDA screen, press Up, Down, Left, Right, Left(2).
+|Cheat| How To |
+|--|--|
+| Invincibility | At the PDA screen, press `Up, Down, Left, Down, Right(2)`. This code will affect both players if enabled in Co-op mode. |
+|Infinite ammunition|At the PDA screen, press `Up, Down, Left, Right, Left(2)`.|
+|Refill fuel|At the PDA screen, press Up(3), Down(3).|
+|All vehicles|At the PDA screen, press `Up, Down, Left, Right(2)`, Left to unlock all vehicles.|
+|All supplies|At the PDA screen, press `Left, Right(2), Left, Up(2), Left, Up` to unlock all supplies.|
+|All costumes|At the PDA screen, press `Up, Right, Down, Left, Up` to unlock all costumes.|
+|All airstrikes except Nuke|At the PDA screen, press `Right, Left, Down, Up, Right, Left, Down, Up` to unlock all airstrikes except the Nuke.|
+|Nuke|At the PDA screen, press `Up(2), Down(2), Left, Right, Left, Right` to unlock the Nuke.|
+|Grappling hook|At the PDA screen, press `Up, Left, Down, Right, Up` to unlock the grappling hook. This code will affect both players if enabled in Co-op mode.|
 
-**Refill fuel**
-At the PDA screen, press Up(3), Down(3).
 
-**All vehicles**
-At the PDA screen, press Up, Down, Left, Right(2), Left to unlock all vehicles.
-
-**All supplies**
-At the PDA screen, press Left, Right(2), Left, Up(2), Left, Up to unlock all supplies.
-
-**All costumes**
-At the PDA screen, press Up, Right, Down, Left, Up to unlock all costumes.
-
-**All airstrikes except Nuke**
-At the PDA screen, press Right, Left, Down, Up, Right, Left, Down, Up to unlock all airstrikes except the Nuke.
-
-**Nuke**
-At the PDA screen, press Up(2), Down(2), Left, Right, Left, Right to unlock the Nuke.
-
-**Grappling hook**
-At the PDA screen, press Up, Left, Down, Right, Up to unlock the grappling hook. This code will affect both players if enabled in Co-op mode.
 
