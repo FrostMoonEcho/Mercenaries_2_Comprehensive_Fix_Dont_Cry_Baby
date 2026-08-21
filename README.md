@@ -129,7 +129,7 @@ But be careful, because the settings that will work best on your hardware will b
 - Choose the preset and install it
 - Then when you launch the game you should press `Home` button and make sure that all effects are enabled.
 
-### Cheats
+## Cheats
 
 > **Note:** Cheats are only available after the v1.03 update is applied to your game.
   
