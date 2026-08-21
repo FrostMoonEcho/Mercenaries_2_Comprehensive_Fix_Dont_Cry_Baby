@@ -9,10 +9,25 @@
   
 ## Navigation
 
- - What you can find in this patch
+ - [What you can find in this patch](#what-you-can-find-in-this-patch)
  - [Prerequisites](#prerequisites)
  - [Installation](#installation)
  - [Pro Tips for Best Quality](#pro-tips-for-best-quality)
+
+## What you can find in this patch
+The collection includes:
+- Fix for blur caused by DoF
+- Fix which disables aim assist
+- Fix which Enables permanent death for NPCs
+- Improvement which increases the fine for killing an NPC to $25,000
+- Fix for a bug which happens after a kick or a collision with an NPC, it's like it gets up and then falls dead again
+- Corpses don't disappear immediately anymore
+- Various fixes for shadows
+- All outfits in your wardrobe will be unlocked including:
+	- Basic outfits
+	- Cheat outfits such as Ewan, Misha, Fiona and Eva
+	- Pre-order only outfits
+- Optionally you can download my ReShade preset.
 
 ## Prerequisites
 **(!)** It's extremely important to check your serial numbers on an every step, because this patch expects only certain ones. Otherwise, there is a big chance that you will experience bugs/crashes and other bad stuff.
@@ -63,23 +78,26 @@ You are ready to blow someting up!
 
 ## Pro Tips for Best Quality
 I recommend to use Vulkan and enable the following settings for the game:
+
 ![RPCS3 Settings](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/RPCS3_3.png?raw=true)
 
 Don't use blindly 300% for upscaling. It costs a lot!
 
 ### Use excessive upscaling in RPCS3
 Let's assume the following:
-- You set the game upscaling resolution to 225% (for high-end hardware) which is quivalent to 
+- You set the game upscaling resolution to 225% (or any resolution that will be more than the one for window)
 - You launched the game in the window mode with resolution 1280x720
 
 Then your game will be automatically downsampled by your system and this will improve anti-aliasing in the game.
 
 You have to configure upscaling in the game settings. (Example is available on the previous screenshot)
 
-You have to enable the window-mode for game:
+You have to enable the window-mode for the game:
+
 ![RPCS3 Settings](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/RPCS3_2.png?raw=true)
 
 And configure the main window parameters:
+
 ![RPCS3 Settings](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/RPCS3_1.png?raw=true)
 
 Then restart RPCS3.
@@ -94,8 +112,8 @@ But be careful, because the settings that will work best on your hardware will b
 
 ### Use ReShade to improve graphics
 - Download [my ReShade Preset](ReShadePreset.ini) 
-- ([Download](https://reshade.me/)) and install ReShade. 
+- [Download](https://reshade.me/) and install ReShade. 
 - Choose your `rpcs3.exe`
 - Choose Vulkan
 - Choose the preset and install it
-- Then when you launch the game you should press `Home` button and make sure that:
+- Then when you launch the game you should press `Home` button and make sure that all effects are enabled.
