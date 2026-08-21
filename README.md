@@ -57,6 +57,7 @@ The collection includes:
 
 
 ## Installation
+![Preview2](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/Preview2.png?raw=true)
 
  - Download RPCS3 and install the base game. Make sure that:
 	 - The serial number of the game is **BLES00323**
@@ -81,6 +82,8 @@ The collection includes:
 You are ready to blow someting up!
 
 ## Pro Tips for Best Quality
+![Preview3](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/Preview3.png?raw=true)
+
 I recommend to use Vulkan and enable the following settings for the game:
 
 ![RPCS3 Settings](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/RPCS3_3.png?raw=true)
@@ -121,3 +124,34 @@ But be careful, because the settings that will work best on your hardware will b
 - Choose Vulkan
 - Choose the preset and install it
 - Then when you launch the game you should press `Home` button and make sure that all effects are enabled.
+
+### Cheats
+Note: Cheats are only available after the v1.03 update is applied to your game. While playing the game, activate the PDA, and press L2, R2(2), L2, R2, L2(2), R2(3), L2 to enable cheat mode. Then, close the PDA. If you entered the code correctly, a message will appear. Activate the PDA again, and enter one of the following codes at the PDA screen to activate the corresponding cheat function:
+
+**Invincibility**
+At the PDA screen, press Up, Down, Left, Down, Right(2). This code will affect both players if enabled in Co-op mode.
+
+**Infinite ammunition**
+At the PDA screen, press Up, Down, Left, Right, Left(2).
+
+**Refill fuel**
+At the PDA screen, press Up(3), Down(3).
+
+**All vehicles**
+At the PDA screen, press Up, Down, Left, Right(2), Left to unlock all vehicles.
+
+**All supplies**
+At the PDA screen, press Left, Right(2), Left, Up(2), Left, Up to unlock all supplies.
+
+**All costumes**
+At the PDA screen, press Up, Right, Down, Left, Up to unlock all costumes.
+
+**All airstrikes except Nuke**
+At the PDA screen, press Right, Left, Down, Up, Right, Left, Down, Up to unlock all airstrikes except the Nuke.
+
+**Nuke**
+At the PDA screen, press Up(2), Down(2), Left, Right, Left, Right to unlock the Nuke.
+
+**Grappling hook**
+At the PDA screen, press Up, Left, Down, Right, Up to unlock the grappling hook. This code will affect both players if enabled in Co-op mode.
+
