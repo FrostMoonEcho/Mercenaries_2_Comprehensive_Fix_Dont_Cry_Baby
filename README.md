@@ -12,7 +12,7 @@
  - What you can find in this patch
  - [Prerequisites](#prerequisites)
  - [Installation](#installation)
- - Pro Tips for Best Quality
+ - [Pro Tips for Best Quality](#pro-tips-for-best-quality)
 
 ## Prerequisites
 **(!)** It's extremely important to check your serial numbers on an every step, because this patch expects only certain ones. Otherwise, there is a big chance that you will experience bugs/crashes and other bad stuff.
@@ -47,7 +47,7 @@
  - Install the update v1.03 and DLC. Make sure that:
  ![Preview](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/Packages.png?raw=true)
 
- - Download `BLES00323_patch.yml` from this repository and put it in the folder `<RPCS3_folder>/patches`. So your structure should look like: 
+ - Download [BLES00323_patch.yml](/BLES00323_patch.yml) from this repository and put it in the folder `<RPCS3_folder>/patches`. So your structure should look like: 
  ```text
 		RPCS3 
 		├── patches
@@ -57,16 +57,45 @@
 - **Right-click on the game** -> **Manage game patches** -> **Enable the following game patches**:
  ![Preview](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/Patches.png?raw=true)
 
+- Set **your RPCS3 upscaling value** in `Self-Shadowing Fix`
+
 You are ready to blow someting up!
 
 ## Pro Tips for Best Quality
+I recommend to use Vulkan and enable the following settings for the game:
+![RPCS3 Settings](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/RPCS3_3.png?raw=true)
+
+Don't use blindly 300% for upscaling. It costs a lot!
+
 ### Use excessive upscaling in RPCS3
 Let's assume the following:
-- You set the game upscaling resolution to 300% (for high-end hardware) which is quivalent to 
+- You set the game upscaling resolution to 225% (for high-end hardware) which is quivalent to 
 - You launched the game in the window mode with resolution 1280x720
 
-Then your game will be automatically downsampled by your system and this will improve anti-aliasing in the game
+Then your game will be automatically downsampled by your system and this will improve anti-aliasing in the game.
 
+You have to configure upscaling in the game settings. (Example is available on the previous screenshot)
+
+You have to enable the window-mode for game:
+![RPCS3 Settings](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/RPCS3_2.png?raw=true)
+
+And configure the main window parameters:
+![RPCS3 Settings](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/RPCS3_1.png?raw=true)
+
+Then restart RPCS3.
+
+### Use Lossless Scaling to scale the window and generate 60 fps
+The next questions are how to play in a full-screen mode preserving the quality and how to have more than 30fps?
+You have to use ([Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/)) to get to this point. Here are the settings that I use:
+
+![Lossless Scaling Settings](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/LS.png?raw=true)
+
+But be careful, because the settings that will work best on your hardware will be different. Use this as a hint.
 
 ### Use ReShade to improve graphics
-### Use Lossless Scaling to scale the window and generate 60 fps
+- Download [my ReShade Preset](ReShadePreset.ini) 
+- ([Download](https://reshade.me/)) and install ReShade. 
+- Choose your `rpcs3.exe`
+- Choose Vulkan
+- Choose the preset and install it
+- Then when you launch the game you should press `Home` button and make sure that:

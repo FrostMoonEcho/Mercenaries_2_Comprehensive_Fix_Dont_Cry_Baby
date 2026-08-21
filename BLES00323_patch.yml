@@ -51,7 +51,7 @@ PPU-d02498a9cc5a1df4ade6373d79eab1cdd9e09229:
     Configurable Values:
       "Upscale value":
         Type: double_enum
-        Value: 7.5
+        Value: 2.5
         Allowed Values:
           "25%": 0.625
           "50%": 1.25
