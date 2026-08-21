@@ -129,7 +129,7 @@ But be careful, because the settings that will work best on your hardware will b
 
 ### Cheats
 
-> Note: Cheats are only available after the v1.03 update is applied to
+> **Note:** Cheats are only available after the v1.03 update is applied to
 > your game.
 >  
 > While playing the game, activate the PDA, and press L2,
