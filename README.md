@@ -3,7 +3,7 @@
 # «Don't Cry Baby» Fix for Mercenaries 2: World in Flames 
 
 
-![Preview](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/Main.png?raw=true)
+![Main picture](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/Main.png?raw=true)
 
   
   
@@ -18,7 +18,7 @@
 The collection includes:
 - Fix for blur caused by DoF
 - Fix which disables aim assist
-- Fix which Enables permanent death for NPCs
+- Fix which enables permanent death for NPCs
 - Improvement which increases the fine for killing an NPC to $25,000
 - Fix for a bug which happens after a kick or a collision with an NPC, it's like it gets up and then falls dead again
 - Corpses don't disappear immediately anymore
@@ -51,6 +51,9 @@ The collection includes:
 - `(optionally)` ReShade for better graphics  ([download](https://reshade.me/))
 - `(optionally)` Lossless Scaling for frame generation and scaling  ([download](https://store.steampowered.com/app/993090/Lossless_Scaling/))
 - `(optionally)` Gamepad for better experience 
+
+![Preview](https://github.com/FrostMoonEcho/Mercenaries_2_Comprehensive_Fix_Dont_Cry_Baby/blob/main/assets/Preview.png?raw=true)
+
 
 ## Installation
 
