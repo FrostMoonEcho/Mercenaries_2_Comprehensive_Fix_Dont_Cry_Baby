@@ -17,11 +17,11 @@
 
 - RPCS3 Emulator ([Download](https://rpcs3.net/download) or [the build which I used for testing](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-8fd2ae954d80d867fd2d58795848c77d1954574b/rpcs3-v0.0.42-19815-8fd2ae95_win64_msvc.7z))
 
-- Mercenaries 2: World In Flames dump. 
+- Mercenaries 2: World In Flames dump. ([Download](https://archive.org/details/Mercenaries2_WiF-LivBs))
 
   > **Important:** the serial number should be **BLES00323**
 
-- Update v1.03 for Mercenaries 2 
+- Update v1.03 for Mercenaries 2 ([Download](http://ps3.aldostools.org/updates.html))
 
 - Blow it Up Again DLC
 
