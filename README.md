@@ -13,6 +13,7 @@
  - [Prerequisites](#prerequisites)
  - [Installation](#installation)
  - [Pro Tips for Best Quality](#pro-tips-for-best-quality)
+ - [Cheats](#cheats)
 
 ## What you can find in this patch
 The collection includes:
@@ -43,6 +44,7 @@ The collection includes:
 - Mercenaries 2: World In Flames dump
 
   > **Important:** the serial number should be **BLES00323**
+  > 
   > Also known as Mercenaries 2 - WiF (Europe) (En,Fr,De,Es,It,**Ru**)
 
 - Update v1.03 for Mercenaries 2 
@@ -126,7 +128,17 @@ But be careful, because the settings that will work best on your hardware will b
 - Then when you launch the game you should press `Home` button and make sure that all effects are enabled.
 
 ### Cheats
-Note: Cheats are only available after the v1.03 update is applied to your game. While playing the game, activate the PDA, and press L2, R2(2), L2, R2, L2(2), R2(3), L2 to enable cheat mode. Then, close the PDA. If you entered the code correctly, a message will appear. Activate the PDA again, and enter one of the following codes at the PDA screen to activate the corresponding cheat function:
+
+> Note: Cheats are only available after the v1.03 update is applied to
+> your game.
+>  
+> While playing the game, activate the PDA, and press L2,
+> R2(2), L2, R2, L2(2), R2(3), L2 to enable cheat mode. 
+> Then, close the PDA. 
+> 
+> If you entered the code correctly, a message will appear.
+> Activate the PDA again, and enter one of the following codes at the
+> PDA screen to activate the corresponding cheat function:
 
 **Invincibility**
 At the PDA screen, press Up, Down, Left, Down, Right(2). This code will affect both players if enabled in Co-op mode.
