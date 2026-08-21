@@ -141,8 +141,8 @@ Activate the PDA again, and enter one of the following codes at the PDA screen t
 |--|--|
 | Invincibility | At the PDA screen, press `Up, Down, Left, Down, Right(2)`. This code will affect both players if enabled in Co-op mode. |
 |Infinite ammunition|At the PDA screen, press `Up, Down, Left, Right, Left(2)`.|
-|Refill fuel|At the PDA screen, press Up(3), Down(3).|
-|All vehicles|At the PDA screen, press `Up, Down, Left, Right(2)`, Left to unlock all vehicles.|
+|Refill fuel|At the PDA screen, press `Up(3), Down(3)`.|
+|All vehicles|At the PDA screen, press `Up, Down, Left, Right(2), Left` to unlock all vehicles.|
 |All supplies|At the PDA screen, press `Left, Right(2), Left, Up(2), Left, Up` to unlock all supplies.|
 |All costumes|At the PDA screen, press `Up, Right, Down, Left, Up` to unlock all costumes.|
 |All airstrikes except Nuke|At the PDA screen, press `Right, Left, Down, Up, Right, Left, Down, Up` to unlock all airstrikes except the Nuke.|
